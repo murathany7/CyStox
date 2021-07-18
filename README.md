@@ -3,6 +3,7 @@
 - Murathan Yildirim
 - Casey Wong
 - Adam Sweiger
+
 This is a web app that displays stocks to users, enables them to follow/unfollow and buy stocks with NONREAL money.
 
 ## This app enables users to:
